@@ -5,7 +5,6 @@
 <h3 align="center">Ownio - Flow</h3>
 <div align="center">
 
-[![Hackathon](https://img.shields.io/badge/Hackathon-Flow%20Asia%20Hackathon-blue.svg)](http://hackathon.url.com)
 
 **CONTRACT ADDRESS : `0xa9EEE7D1F2Cc2f12C4cae72a42829d3a168dEA4F`**
 
